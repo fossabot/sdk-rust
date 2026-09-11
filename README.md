@@ -1,4 +1,6 @@
 # Serverless Workflow Rust SDK
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fopen-workflow-specification%2Fsdk-rust.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fopen-workflow-specification%2Fsdk-rust?ref=badge_shield)
+
 
 The official Rust SDK for the [Serverless Workflow DSL](https://github.com/serverlessworkflow/specification/blob/main/dsl.md).
 
@@ -35,3 +37,7 @@ serverless-workflow-builders = "1.0.0-alpha6"
 ## Contributing
 
 Contributions are welcome! Please refer to the [contribution guidelines](./CONTRIBUTING.md) for more information.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fopen-workflow-specification%2Fsdk-rust.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fopen-workflow-specification%2Fsdk-rust?ref=badge_large)
